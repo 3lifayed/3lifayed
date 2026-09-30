@@ -2,10 +2,11 @@
 
 <a href="https://alifayed.com"><img src="./assets/animated-logo.svg" alt="Ali Fayed animated logo" width="240" /></a>
 
-# Ali Fayed
-### Front-End Developer
+# Hi, I'm Ali Fayed
 
-### React & Next.js · TypeScript · Headless WordPress
+<img src="./assets/typing.svg" alt="Problem-Solving Enthusiast; Full-stack Web Developer; React &amp; Tailwind Enthusiast; UI/UX Explorer; Accessibility &amp; Performance Focused" width="760" />
+
+I'm focused on building accessible and fast digital experiences using modern technologies.
 
 [Portfolio](https://alifayed.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/3lifayed/)
 
