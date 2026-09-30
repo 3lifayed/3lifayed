@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**3lifayed/3lifayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://alifayed.com"><img src="./assets/animated-logo.svg" alt="Ali Fayed animated logo" width="240" /></a>
 
-Here are some ideas to get you started:
+# Ali Fayed
+### Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### React & Next.js · TypeScript · Headless WordPress
+
+[Portfolio](https://alifayed.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/3lifayed/)
+
+</div>
+
+---
+
+## Hi, I'm Ali.
+
+I'm a front-end developer with 5+ years of experience turning ideas into responsive, accessible web experiences. I bring design and development together, with a focus on clear interfaces, reusable components, and performance.
+
+I enjoy making complex experiences feel simple—and paying attention to the details that make a website feel polished.
+
+## My toolkit
+
+| Front end | Content & integration | Delivery & design |
+| :--- | :--- | :--- |
+| React · Next.js · TypeScript | WordPress · FaustWP · GraphQL | Git · GitHub · CI/CD |
+| JavaScript · Tailwind CSS | REST APIs · Headless CMS | Responsive design · UI/UX · SEO |
+
+## How I work
+
+- Translate designs into responsive, accessible interfaces.
+- Build reusable components and practical content workflows.
+- Take ownership from implementation through launch and ongoing improvements.
+
+---
+
+<div align="center">
+
+**Good design deserves great implementation.**
+
+[Explore my portfolio →](https://alifayed.com)
+
+</div>
