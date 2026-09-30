@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-44 -44 264 264" role="img" aria-labelledby="title">
+<title id="title">Ali Fayed animated logo</title>
+<defs><clipPath id="reveal"><rect x="-44" y="-44" width="264" height="264"><animate attributeName="width" from="0" to="264" dur="1.5s" calcMode="spline" keyTimes="0;1" keySplines="0 0 .58 1" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#reveal)"><path fill="#ffffff" transform="translate(-44 23.28) scale(.838095)" d="M157.51,0C90.59,0,32.05,61.94,0,154.43h68.37C70.89,73.13,109.85,8.52,157.51,8.52s86.6,64.61,89.12,145.91h68.37C282.95,61.94,224.41,0,157.51,0Z"/></g>
+<g transform="translate(88 124)"><g opacity="0"><animate attributeName="opacity" values=".6;1;.6" begin="1.2s" dur="2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/><g transform="scale(.5)"><animateTransform attributeName="transform" type="scale" values=".5;.55;.5" begin="1.2s" dur="2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/><path fill="#2dd4bf" transform="scale(1.681) translate(-52.335 -52.325)" d="M104.67,52.32c-28.9,0-52.35,23.42-52.35,52.32,0-28.9-23.42-52.32-52.32-52.32,28.9,0,52.32-23.42,52.32-52.32,0,28.9,23.44,52.32,52.35,52.32Z"/></g></g></g>
+</svg>
