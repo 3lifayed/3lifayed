@@ -14,8 +14,7 @@
 
 I'm focused on building accessible and fast digital experiences using modern technologies.
 
-[Portfolio](https://alifayed.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/3lifayed/)
-
+[Portfolio](https://alifayed.com)
 </div>
 
 ---
