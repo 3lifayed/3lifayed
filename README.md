@@ -21,7 +21,7 @@ I'm focused on building accessible and fast digital experiences using modern tec
 
 ## Hi, I'm Ali.
 
-I'm a front-end developer with 5+ years of experience turning ideas into responsive, accessible web experiences. I bring design and development together, with a focus on clear interfaces, reusable components, and performance.
+I'm a full stack developer with 5+ years of experience turning ideas into responsive, accessible web experiences. I bring design and development together, with a focus on clear interfaces, reusable components, and performance.
 
 I enjoy making complex experiences feel simple—and paying attention to the details that make a website feel polished.
 
