@@ -27,7 +27,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 
 ## Technologies & Tools
 
-### 💻 Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,7 +41,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-475569?style=for-the-badge)
 
-### ⚛️ Front End & Mobile
+### Front End & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -49,7 +49,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-A855F7?style=for-the-badge&logo=framer&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### ⚙️ Backend, CMS & APIs
+### Backend, CMS & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -62,13 +62,13 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge)
 
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-64748B?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Testing & Code Quality
+### Testing & Code Quality
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -77,7 +77,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![Automated Testing](https://img.shields.io/badge/Automated%20Testing-475569?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-475569?style=for-the-badge)
 
-### ☁️ Cloud, Build & Systems
+### Cloud, Build & Systems
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![WP Engine](https://img.shields.io/badge/WP%20Engine-0EA5E9?style=for-the-badge&logo=wpengine&logoColor=white)
@@ -89,7 +89,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![BME688](https://img.shields.io/badge/BME688-475569?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-1E293B?style=for-the-badge)
 
-### 🛠️ Development, Design & Collaboration
+### Development, Design & Collaboration
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -104,7 +104,7 @@ I enjoy making complex experiences feel simple—and paying attention to the det
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge)
 
-### ✨ Engineering & Web Practices
+### Engineering & Web Practices
 
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-475569?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-64748B?style=for-the-badge)
